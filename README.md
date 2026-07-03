@@ -1,5 +1,13 @@
-# 💫 About Me:
-<br><br>💻 Computer Science Engineering Student<br><br>🚀 Passionate about Web Development & DSA<br><br>🛠️ Building real-world projects<br><br>🎯 Aspiring Software Developer<br>
+# 👋 About Me
+
+Hi, I'm a Computer Science Engineering student passionate about Web Development, Data Structures & Algorithms, and problem-solving.
+
+I enjoy building responsive and user-friendly web applications using HTML, CSS, JavaScript, React, and C++. I love turning ideas into real-world projects while continuously improving my coding and development skills.
+
+I'm currently focused on strengthening my DSA, exploring modern web technologies, and building projects that solve real-world problems.
+
+I'm always eager to learn, collaborate, and grow as a software developer.
+
 
 
 ## 🌐 Socials:
