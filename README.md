@@ -10,7 +10,7 @@ I'm always eager to learn, collaborate, and grow as a software developer.
 
 
 
-## 🌐 Socials:
+<!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reshmi-kumari-869038283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshmi6223@gmal.com) 
 
 # 💻 Tech Stack:
@@ -18,7 +18,7 @@ I'm always eager to learn, collaborate, and grow as a software developer.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Reshmi9677&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Reshmi9677&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Reshmi9677&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Reshmi9677&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
