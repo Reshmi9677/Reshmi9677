@@ -1,4 +1,3 @@
-# 👋 About Me
 <h1 align="center">Hi 👋, I'm Reshmi Kumari</h1>
 
 <h3 align="center">
