@@ -1,4 +1,15 @@
 # 👋 About Me
+<h1 align="center">Hi 👋, I'm Reshmi Kumari</h1>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=50&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Web+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" />
+</h3>
+
+<p align="center">
+Passionate about building responsive web applications, solving DSA problems, and continuously learning modern technologies to create impactful real-world projects.
+</p>
+
+<!--# 👋 About Me
 
 Hi, I'm a Computer Science Engineering student passionate about Web Development, Data Structures & Algorithms, and problem-solving.
 
@@ -6,7 +17,7 @@ I enjoy building responsive and user-friendly web applications using HTML, CSS, 
 
 I'm currently focused on strengthening my DSA, exploring modern web technologies, and building projects that solve real-world problems.
 
-I'm always eager to learn, collaborate, and grow as a software developer.
+I'm always eager to learn, collaborate, and grow as a software developer. -->
 
 
 
